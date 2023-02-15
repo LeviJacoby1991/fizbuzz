@@ -1,3 +1,3 @@
-module github.com/lj1991/fizbuzz
+module github.com/LeviJacoby1991/fizbuzz
 
 go 1.19
